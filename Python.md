@@ -10,7 +10,7 @@
 
 ## 字面量
 
-![](.\assets\屏幕截图 2025-10-28 102850.png)
+![](https://github.com/mafei2003/Python/blob/main/assets/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-10-28%20102850.png)
 
 ## 注释
 
